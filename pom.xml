@@ -7,6 +7,7 @@
     <modules>
         <module>cas-overlay-template</module>
         <module>cas-generator-utils</module>
+        <module>authentication-server</module>
     </modules>
     <groupId>cn.boommanpro</groupId>
     <artifactId>cas-sso-service</artifactId>
