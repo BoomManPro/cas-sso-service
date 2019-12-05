@@ -6,6 +6,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>cas-overlay-template</module>
+        <module>cas-generator-utils</module>
     </modules>
     <groupId>cn.boommanpro</groupId>
     <artifactId>cas-sso-service</artifactId>
